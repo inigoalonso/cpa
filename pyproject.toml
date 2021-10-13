@@ -1,0 +1,31 @@
+[build-system]
+requires = ["flit_core >=3.2,<4"]
+build-backend = "flit_core.buildapi"
+
+[project]
+name = "cpm"
+authors = [{name = "Iñigo ALonso Fernandez", email = "inigoalonso@inigoalonso.com"}]
+
+requires-python = ">=3.8"
+dynamic = ['version', 'description']
+
+dependencies = [
+"matplotlib==3.3.3",
+"seaborn==0.11.0",
+"networkx==2.5",
+"numpy==1.19.5",
+]
+
+[project.optional-dependencies]
+test = [
+    "pytest >=6.2.5",
+    "pytest-cov",
+]
+doc = [
+    "sphinx",
+    "sphinx-autobuild",
+    "nbsphinx"
+]
+
+[project.urls]
+Source = "https://github.com/inigoalonso/cpm"
