@@ -1,6 +1,6 @@
 """
-Change Propagation Method
--------------------------
+Change Propagation Assessment
+-----------------------------
 
 A library for performing Change Propagation Assessment (CPA)
 
