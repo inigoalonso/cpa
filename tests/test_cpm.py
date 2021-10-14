@@ -1,7 +1,7 @@
 import pytest
 import numpy as np
 
-from cpm.cpm.something import something
+from cpa.cpa.something import something
 
 def test_something():
     """testing something"""

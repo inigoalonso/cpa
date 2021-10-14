@@ -1,5 +1,5 @@
-# cpm
-Change Propagation Method
+# cpa
+Change Propagation Assessment
 
 ## Installation for development
 

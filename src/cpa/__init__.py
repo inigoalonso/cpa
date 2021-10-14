@@ -2,11 +2,11 @@
 Change Propagation Method
 -------------------------
 
-A library for using the Change Propagation Metod (CPM)
+A library for performing Change Propagation Assessment (CPA)
 
 """
 
 __version__ = '0.0'
 __all__=["something"]
 
-from .cpm import something
+from .cpa import something

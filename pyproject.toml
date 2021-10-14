@@ -3,7 +3,7 @@ requires = ["flit_core >=3.2,<4"]
 build-backend = "flit_core.buildapi"
 
 [project]
-name = "cpm"
+name = "cpa"
 authors = [{name = "Iñigo ALonso Fernandez", email = "inigoalonso@inigoalonso.com"}]
 
 requires-python = ">=3.8"
@@ -28,4 +28,4 @@ doc = [
 ]
 
 [project.urls]
-Source = "https://github.com/inigoalonso/cpm"
+Source = "https://github.com/inigoalonso/cpa"

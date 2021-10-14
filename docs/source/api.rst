@@ -1,15 +1,15 @@
-The cpm API reference
+The cpa API reference
 =======================
 
-.. automodule:: cpm
+.. automodule:: cpa
    :members:
 
-The "cpm" module
+The "cpa" module
 -------------------
 
-.. automodule:: cpm.cpm
+.. automodule:: cpa.cpa
    :members:
 
-.. autoclass:: cpm.cpm.Something
+.. autoclass:: cpa.cpa.Something
    :members:
 

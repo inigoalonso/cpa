@@ -16,7 +16,7 @@ sys.path.insert(0, os.path.abspath('../src')) # append src to system directory
 
 # -- Project information -----------------------------------------------------
 
-project = 'cpm'
+project = 'cpa'
 copyright = '2021, Iñigo Alonso Fernandez'
 author = 'Iñigo Alonso Fernandez'
 
