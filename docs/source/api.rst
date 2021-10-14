@@ -10,6 +10,6 @@ The "cpa" module
 .. automodule:: cpa.cpa
    :members:
 
-.. autoclass:: cpa.cpa.Something
+.. autoclass:: cpa.cpa.something
    :members:
 
